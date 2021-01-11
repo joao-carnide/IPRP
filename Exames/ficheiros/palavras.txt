@@ -1,0 +1,9 @@
+o,4
+tempo,10
+perguntou,1
+ao,2
+quanto,2
+tem,3
+respondeu,1
+que,1
+tanto,1

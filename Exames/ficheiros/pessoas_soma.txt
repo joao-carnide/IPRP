@@ -1,0 +1,4 @@
+daniela 21 21
+pedro 34 2 67 103
+ernesto 45 23 37 105
+patricia 33 21 6 78 138

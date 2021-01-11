@@ -1,0 +1,16 @@
+Venda a Dinheiro No 100
+-----------------------
+Empresa: Vendas&Vendas
+N.C.: 987654321
+Data: 6/Out/2008
+Valor: 100.20
+Vendedor: Manuel Antunes
+
+Venda a Dinheiro No 101
+-----------------------
+Empresa: QR-Shirts
+N.C.: 123456789
+Data: 5/Dez/2020
+Valor: 19.99
+Vendedor: João Nunes
+

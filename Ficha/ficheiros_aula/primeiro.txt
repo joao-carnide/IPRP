@@ -1,0 +1,2 @@
+Acabei de criar o meu primeiro ficheiro em Python
+2 de dezembro de 2020

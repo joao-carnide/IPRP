@@ -1,0 +1,7 @@
+IEEE-TIFS|2011|Bloch,Barros,McLaughlin
+IEEE-ICC|2008|Lima,Barros
+IEEE-TIFS|2011|Pinto,Barros
+IEEE-Access|2017|Mendes
+Eurasip-JWCN|2018|Harrison,Sarmento,Gomes
+ACM-WiSec|2018|Mendes
+IEEE-ICC|2018|Rendon,Harrison,Gomes

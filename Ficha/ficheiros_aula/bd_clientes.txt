@@ -1,0 +1,5 @@
+ID, Nome, DataNasc, Morada, Telefone
+101, Tiago, 1978/05/08, Rua AAAA n. 10, 555827129
+102, Joao, 1980/07/12, Rua C n.5, 555846100
+103, Maria, 1996/04/23, Rua IPRP n.26, 555927490
+104, Ana, 1992/05/8, Ladeira AAA n.1, 555928474

@@ -1,0 +1,3 @@
+Bom dia caros colegas hoje estamos aqui para testar um ficheiro
+este ficheiro tem varias linhas e cada palavra
+esta dividida por espaço
