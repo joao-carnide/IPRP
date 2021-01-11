@@ -1,5 +1,4 @@
-# IPRP
-Exercícios da ficha ou de exames de IPRP
+# IPRP - Resolução de exercícios e exames/testes
 
 Ficha - exercícios resolvidos da ficha dada nas aulas de IPRP
 
