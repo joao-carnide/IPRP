@@ -1,6 +1,8 @@
 import turtle
 
 # Exercicio 2 - 100%
+# Trocar dois caracteres de posição
+# Exemplo: cadeia = 'abcdef' -> trocaxy(cadeia, 0, 2) -> 'cbadf
 def trocaxy(cadeia, x, y):
     n_cadeia = ''
     for i in range(len(cadeia)):
@@ -14,6 +16,7 @@ def trocaxy(cadeia, x, y):
 
 
 # Exercicio 3 - 100%
+# Fazer um quadrado branco em que existe um quadrado preto nos cantos deste
 def goto(posx, posy):
     turtle.penup()
     turtle.goto(posx, posy)
