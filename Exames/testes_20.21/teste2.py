@@ -8,6 +8,7 @@ def calcula(lista_a, lista_b):
     return r1, r2
 
 # Exercicio 2
+# Dado um dicionário de brinquedos como chave e valor lista de pessoas que os pediu determinar o mais pedido, em caso de empate, retornar o ultimo
 def calcula_mais_pedido(d):
     mais_pedido = ''
     pedido = 0
@@ -18,6 +19,7 @@ def calcula_mais_pedido(d):
     print(mais_pedido)
 
 # Exercicio 3
+# Dado um dicionario organizar cada brinquedo num ficheiro (com nº de pessoas que pediu e nome das pessoas) e ter um ficheiro brinquedos_pedidos com a lista de todos os brinquedos no dicionario
 def organiza_pedido(d):
     # escrever ficheiro brinquedos_pedidos.txt
     escreve_pedidos(d, "brinquedos_pedidos.txt")
